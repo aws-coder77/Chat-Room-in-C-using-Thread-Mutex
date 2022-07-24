@@ -1,2 +1,2 @@
-# Chat-Room-in-C-using-Thread-Mutex
+# Chat-Room-in-C-using-Thread-Mutex.
 This is a basic Char Room server made in c using Socket Programming, Mutex, and threads The main functionalities are that clients can chat with each other and exit at any time. All the messages are displayed on the server. The clients can only see messages that have been sent after they have joined. Clients also get notified when another client leaves/joins. The program runs on a local host only.
